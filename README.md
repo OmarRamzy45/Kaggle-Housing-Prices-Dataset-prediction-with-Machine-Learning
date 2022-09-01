@@ -1,5 +1,5 @@
 # Housing Prices Prediction
-in this code I used House Prices dataset from Kaggle website to train a linear regression model and try to predict the price of the house based on given features.
+in this python code I used House Prices dataset from Kaggle website to train a linear regression model and try to predict the price of the house based on given features.
 
 ## Dealing with Data:
  - ### Data Importing 
