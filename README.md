@@ -3,7 +3,7 @@ in this code I used House Prices dataset from Kaggle website to train a linear r
 
 ## Dealing with Data:
  - ### Data Importing 
- Using pandas inbuilt function pd.read_csv() I imported data from the given CSV into my code.
+ Using pandas inbuilt function pd.read_csv( ) I imported data from the given CSV file into my code.
  - ### Filling missing values
  For numerical values, I used KNeighborsRegressor to impute for missing numerical values based on other given values in the same column.
 
