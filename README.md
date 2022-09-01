@@ -26,5 +26,5 @@ I used MAE (mean absolute error) method to check for the model accuracy and calc
 ## Comparing with Linear Regression model from sklearn
 In the Last step I compared between the model I created and the built-in model from sklearn linear_model library to make sure it will make the same predictions.
 
-That's All. I hope you found this usueful.
+That's All. I hope you found this usefull.
 Thank you for reading :).
